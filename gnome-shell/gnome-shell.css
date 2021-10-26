@@ -2140,7 +2140,7 @@ StScrollBar {
     background-color: rgba(0, 126, 255, 0.5); }
 
     #panel #panelActivities.panel-button > * {
-      background-image: url("activities.svg");
+      background-image: url("message-indicator-symbolic.svg");
       width: 24px;
       height: 24px;
       background-color: transparent !important;
